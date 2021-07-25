@@ -1,0 +1,13 @@
+#bannerCarousel img {
+    height: 500px;
+}
+.icons {
+    width: 100px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+}
+.icons a {
+    color: white;
+}
